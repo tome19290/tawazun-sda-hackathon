@@ -1,7 +1,7 @@
-## Tazawun SDA Hackathon
+## Tawazun SDA Hackathon
 
 <h3 align="center">
-Tazawun SDA Hackathon
+Tawazun SDA Hackathon
 </h3>
 
 This is a simple Java spring boot application built during SDA hackathon. Project aims to promote use of biodegradable paper bags, cups and straws using an online portal for easy buy and sell. End goal is to make saudi arabia Leading country in using biodegradable items and raise the community awareness about recycling waste.
