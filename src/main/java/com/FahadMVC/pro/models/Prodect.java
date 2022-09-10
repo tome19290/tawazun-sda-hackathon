@@ -22,7 +22,7 @@ import javax.validation.constraints.Size;
 import org.springframework.format.annotation.DateTimeFormat;
 
 @Entity
-@Table(name="Prodects")
+@Table(name="prodects")
 public class Prodect {
 	@Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
